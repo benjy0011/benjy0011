@@ -5,6 +5,8 @@
 
 - 📄 Know about my experiences [https://rb.gy/lcdd5q](https://rb.gy/lcdd5q)
 
+- ps: Please look into pinned repo only as I am storing literally EVERYTHING on my github.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/benjyyeoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjyyeoh" height="30" width="40" /></a>
