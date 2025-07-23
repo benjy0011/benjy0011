@@ -36,7 +36,7 @@ ps: Please look into pinned repo only as I am storing literally EVERYTHING on my
 
   <!-- ASP.NET -->
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/ASP.NET_Logo.svg" alt="asp.net" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt="asp.net" width="40" height="40"/>
   </a>
 
   <!-- HTML -->
@@ -76,7 +76,7 @@ ps: Please look into pinned repo only as I am storing literally EVERYTHING on my
 
   <!-- Azure DevOps -->
   <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Azure_DevOps_Logo.svg" alt="azure-devops" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure-devops" width="40" height="40"/>
   </a>
 </p>
 
