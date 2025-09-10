@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack development.**
 
-- 📄 Know about my experiences [https://rb.gy/lcdd5q](https://rb.gy/lcdd5q)
+- 🔗 Know about me [Portfolio](https://benjy0011.github.io/portfolio-v1/)
 
 ps: Please look into pinned repo only as I am storing literally EVERYTHING on my github.
 
